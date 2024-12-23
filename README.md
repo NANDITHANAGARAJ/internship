@@ -155,3 +155,10 @@ Before running the project, ensure you have the following installed:
 
 ## Conclusion
 This documentation provides the necessary steps to set up and run the Event Management Dashboard project, along with details about the APIs developed. For any issues or questions, please refer to the project's GitHub repository or contact the developer.
+
+
+
+
+https://github.com/user-attachments/assets/58f116c5-1c4e-462e-8729-6a8e06a028f2
+
+
